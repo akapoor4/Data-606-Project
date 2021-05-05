@@ -15,6 +15,6 @@ This repository contains Excel files and PYNB notebooks used for my Capstone pro
 
   	SeriesReport-20210228180835_bbfb44.xlsx
 
-The PYNB files depict the progress made on the project over the course of the semester. The final notbook is titled...
+The PYNB files depict the progress made on the project over the course of the semester. The final notbook is titled Final Notebook.ipynb 
 
 Please contact me at aneeshkapoor95@gmail.com with any questions or concerns. 
